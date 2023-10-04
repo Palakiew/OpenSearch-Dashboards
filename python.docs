@@ -1,0 +1,9 @@
+Python DevOps Tutorials
+
+In this category we file all articles and tutorials related to deploying and hosting Python applications.
+What is DevOps?
+
+DevOps is the combination of software development and operations. This practice allows a single team to handle the entire application lifecycle—from development, to testing, to deployment, and operations. DevOps helps reduce the disconnect between software developers, quality assurance engineers (QA), and system administrators.
+Python for DevOps
+
+What’s Python’s role in DevOps? Python is one of the primary technologies used by teams practicing DevOps. Its flexibility and accessibility make Python a great fit for this job, enabling the whole team to build web applications, data visualizations, and to improve their workflow with custom utilities. On top of that, Ansible and other popular DevOps tools are written in Python or can be controlled via Python.
